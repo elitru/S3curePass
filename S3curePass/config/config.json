@@ -1,0 +1,16 @@
+{
+  "database": {
+    "host": "127.0.0.1",
+    "port": "5432",
+    "database": "securepass",
+    "user": "postgres",
+    "password": "admin"
+  },
+  "token": {
+    "secret": "jksdhewhnfoweiwodfaiso",
+    "header": "auth-token"
+  },
+  "encryption": {
+    "secret": "ajs74nah7a"
+  }
+}

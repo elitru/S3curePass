@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dd6d408b-8d8a-49e6-b47c-fa1a87e9a74a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="C:\Go" />
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProjectId" id="1bcJekxjfjZA6vrQz2BvBxkkSno" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Dev\OpenSource\S3curePass\S3curePass\database\queries" />
+      <recent name="D:\Dev\OpenSource\S3curePass\S3curePass\encryption" />
+      <recent name="D:\Dev\OpenSource\S3curePass\S3curePass\encryption\user" />
+      <recent name="D:\Dev\OpenSource\S3curePass\S3curePass\database" />
+      <recent name="D:\Dev\OpenSource\S3curePass\S3curePass\handlers\auth" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="go build S3curePass" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="S3curePass" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/server.go" />
+      <package value="S3curePass" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build S3curePass" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+    <proxy>direct</proxy>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="872" y="358" key="#GOROOT" timestamp="1588925567113">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="872" y="358" key="#GOROOT/0.0.2560.1400/-2560.0.2560.1440/2560.0.2560.1440/0.-1440.2560.1440@0.0.2560.1400" timestamp="1588925567113" />
+    <state x="872" y="358" key="#SQL_Dialects" timestamp="1588933820618">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="872" y="358" key="#SQL_Dialects/0.0.2560.1400/-2560.0.2560.1440/2560.0.2560.1440/0.-1440.2560.1440@0.0.2560.1400" timestamp="1588933820618" />
+    <state x="872" y="358" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588933824864">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="872" y="358" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1400/-2560.0.2560.1440/2560.0.2560.1440/0.-1440.2560.1440@0.0.2560.1400" timestamp="1588933824864" />
+    <state width="2517" height="401" key="GridCell.Tab.0.bottom" timestamp="1589972765098">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="401" key="GridCell.Tab.0.bottom/0.0.2560.1400/-2560.0.2560.1440/2560.0.2560.1440/0.-1440.2560.1440@0.0.2560.1400" timestamp="1589972765098" />
+    <state width="2517" height="401" key="GridCell.Tab.0.center" timestamp="1589972765098">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="401" key="GridCell.Tab.0.center/0.0.2560.1400/-2560.0.2560.1440/2560.0.2560.1440/0.-1440.2560.1440@0.0.2560.1400" timestamp="1589972765098" />
+    <state width="2517" height="401" key="GridCell.Tab.0.left" timestamp="1589972765098">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="401" key="GridCell.Tab.0.left/0.0.2560.1400/-2560.0.2560.1440/2560.0.2560.1440/0.-1440.2560.1440@0.0.2560.1400" timestamp="1589972765098" />
+    <state width="2517" height="401" key="GridCell.Tab.0.right" timestamp="1589972765098">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="401" key="GridCell.Tab.0.right/0.0.2560.1400/-2560.0.2560.1440/2560.0.2560.1440/0.-1440.2560.1440@0.0.2560.1400" timestamp="1589972765098" />
+    <state x="943" y="315" width="672" height="678" key="search.everywhere.popup" timestamp="1589834945253">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="943" y="315" width="672" height="678" key="search.everywhere.popup/0.0.2560.1400/-2560.0.2560.1440/2560.0.2560.1440/0.-1440.2560.1440@0.0.2560.1400" timestamp="1589834945253" />
+  </component>
+</project>
